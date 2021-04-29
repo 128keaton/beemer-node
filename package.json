@@ -1,0 +1,17 @@
+{
+  "name": "beemer-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bonjour": "^3.5.0",
+    "buffer": "^6.0.3",
+    "dgram": "^1.0.1",
+    "dns-txt": "^2.0.2"
+  }
+}

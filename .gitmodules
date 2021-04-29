@@ -1,0 +1,3 @@
+[submodule "lib/JSceneKit"]
+	path = lib/JSceneKit
+	url = https://github.com/magicien/JSceneKit
